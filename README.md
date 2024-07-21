@@ -1,0 +1,2 @@
+# gitExercise
+first project
